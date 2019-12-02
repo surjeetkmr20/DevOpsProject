@@ -1,0 +1,13 @@
+/DevOpsProject/src/main/java/com/edurekademo/utilities/PropertyLoader.java
+/DevOpsProject/src/main/java/com/edurekademo/utilities/StringUtilities.java
+/DevOpsProject/src/main/java/com/edurekademo/utilities/LoggerStackTraceUtil.java
+/DevOpsProject/src/main/java/com/edurekademo/utilities/CaseInsensitiveComparator.java
+/DevOpsProject/src/main/java/com/edurekademo/utilities/HexAsciiConvertor.java
+/DevOpsProject/src/main/java/com/edurekademo/helper/GenericResourceBundle.java
+/DevOpsProject/src/main/java/com/edurekademo/tutorial/addressbook/backend/ContactService.java
+/DevOpsProject/src/main/java/com/edurekademo/utilities/PrepareTargetMethod.java
+/DevOpsProject/src/main/java/com/edurekademo/tutorial/addressbook/ContactForm.java
+/DevOpsProject/src/main/java/com/edurekademo/tutorial/addressbook/AddressbookUI.java
+/DevOpsProject/src/main/java/com/edurekademo/tutorial/addressbook/backend/Contact.java
+/DevOpsProject/src/main/java/com/edurekademo/utilities/GenericComparator.java
+/DevOpsProject/src/main/java/com/edurekademo/utilities/PropertyHelper.java
